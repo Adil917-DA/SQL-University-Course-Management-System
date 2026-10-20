@@ -1,6 +1,7 @@
 # SQL-University-Course-Management-System
 
 📌 Project Overview
+
 The University Course Management System is a SQL-based database project developed utilizing PostgreSQL. This initiative showcases comprehensive database design, data manipulation, and data retrieval methodologies within a university database schema encompassing students, courses, instructors, enrollments, and departments.
 The primary objective is to gain practical experience with SQL concepts, spanning from foundational CRUD operations to advanced queries incorporating joins, subqueries, aggregate functions, date manipulation, and window functions.
 
